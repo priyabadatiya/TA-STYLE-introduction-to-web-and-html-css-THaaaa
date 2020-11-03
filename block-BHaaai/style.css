@@ -1,0 +1,51 @@
+body {
+    background: rgb(34, 57, 106);
+    color: whitesmoke;
+}
+
+.image-container {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 20px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 45px;
+    color: rgb(49, 187, 102);
+}
+
+h4 {
+    font-size: 35px;
+}
+
+h5 {
+    font-size: 30px;
+}
+
+h6 {
+    font-size: 25px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.hero {
+    text-align: center;
+    background: rgb(17, 36, 77);
+    padding: 15px 0px 15px 0px;
+}
+
+.hero a {
+    padding-right: 30px;
+    font-size: 20px;
+    color: red;
+}
